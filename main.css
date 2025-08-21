@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+    transition: .3s;
+    font-family: inter;
+}
+
+body{
+    background-image: linear-gradient(135deg, #a8a8e0, #ffc0cb, #e0efb8);
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 80vh;
+    border-radius: 20px;
+    box-shadow: 0 0 30px #bcbcbc;
+    backdrop-filter: blur(50px);
+    background-color: rgba(255, 255, 255, 0.3)
+}
+
+img{
+    width: 12rem;
+}
+
+.logo-setter{
+    margin: 10px;
+    display: flex;
+    width: 70vh;
+    justify-content: space-between;
+}
+
+button{
+    background-color: transparent;
+    color: #333;
+    border: 3px solid #242424;
+    border-radius: 6px;
+    width: 7rem;
+    font-weight: 500;
+}
+
+.content{
+    margin-top: 30px;
+}
+
+.foot{
+    margin-top: 50px;
+    font-size: .875rem;
+    text-align: center;
+}
+
+.foot a{
+    text-decoration: none;
+    color: #777;
+}
+
+.foot:hover{
+    letter-spacing: 2px;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 30px rgb(163, 213, 246);
+}
+
+button:hover{
+    background-color: #242424;
+    color: #ccc;
+    transform: scale(1.1);
+}
+
+img:hover{
+    transform: scale(1.1);
+}
+
+.content h1:hover{
+    letter-spacing: 1px;
+}
