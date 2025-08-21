@@ -1,6 +1,6 @@
 #RapidBrains Post Replica
 
-I came across a post by RapidBrains on LinkedIn and I like the post design and thought "why don't I try replicating this?" and here we are. A near perfect replica of the post. **You can access the webpage here**: 
+I came across a post by RapidBrains on LinkedIn and I like the post design and thought "why don't I try replicating this in my style?" and here we are. A near perfect replica of the post, but with a little improved design. **You can access the webpage here**: 
 
 
 
