@@ -67,13 +67,11 @@ button {
 
 .card:hover {
     transform: scale(1.1);
-    box-shadow: 0 0 30px rgb(163, 213, 246);
 }
 
 button:hover {
     background-color: #242424;
     color: #ccc;
-    transform: scale(1.1);
 }
 
 img:hover {
